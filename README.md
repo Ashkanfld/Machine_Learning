@@ -1,8 +1,8 @@
-#Machine_Learning 
+# Machine_Learning 
 
 This simple program computes a multiple linear regression based on Gradient Descent as an optimization method. 
 
-#Sample_dataset
+# Sample_dataset
 
 This code could be used for a vast majority of datasets, one of which is provided in the result section. This dataset could be found on the Kaggle website (https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university)
 
