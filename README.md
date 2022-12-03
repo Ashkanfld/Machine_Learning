@@ -1,12 +1,12 @@
 # Machine_Learning 
 
-This simple program computes a multi-linear regression based on Gradient Descent as an optimization method. 
+This simple program computes a multiple linear regression based on Gradient Descent as an optimization method. 
 
 # Sample_dataset
 
 This code could be used for a vast majority of datasets, one of which is provided in the result section. This dataset could be found on the Kaggle website (https://www.kaggle.com/datasets/akshaydattatraykhare/data-for-admission-in-the-university)
 
-A multi-linear regression calculates based on 70 percent of participants, and the remaining 30 percent is used to verify the model.
+A multiple linear regression is derived based on 70 percent of participants, and the remaining 30 percent is used to verify the model.
 
 # How to use
 
@@ -16,7 +16,7 @@ A multi-linear regression calculates based on 70 percent of participants, and th
 
 3) Determine a file path for the total cost in the " reportTotalCost " function.  
 
-4) Determine a file path for the final coefficients in multi-linear regression in the " reportTheta " function.
+4) Determine a file path for the final coefficients in multiple linear regression in the " reportTheta " function.
 
 5) Determine a file path for the sample data to predict its result and also a file path for reporting the result in the " findAnswer " function.  
 
